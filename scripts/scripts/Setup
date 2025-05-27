@@ -1,0 +1,22 @@
+##  IIS Setup and Customization (Done on all 4 web servers)
+
+I installed IIS manually inside each VM using PowerShell:
+
+```powershell
+Install-WindowsFeature -name Web-Server -IncludeManagementTools
+
+##  IIS Setup and Customization (Done on all 4 web servers)
+
+I installed IIS manually inside each VM using PowerShell:
+
+```powershell
+Install-WindowsFeature -name Web-Server -IncludeManagementTools
+Then I navigated to the default IIS folder and replaced the content of iisstart.htm with a custom HTML file. I made each web server homepage unique to reflect its region and hostname — for example:
+
+Canada Web Server 1 🇨🇦
+
+Canada Web Server 2 🇨🇦
+
+Switzerland Web Server 1 🇨🇭
+
+Switzerland Web Server 2 🇨🇭
