@@ -6,12 +6,12 @@ This project simulates a real-world cloud infrastructure deployment for a global
 
 ## 🎯 Project Objectives
 
-- ✅ Deploy a globally available and redundant company website
-- ✅ Host two IIS-based VMs in each region (Canada Central & North Europe)
-- ✅ Implement regional **load balancing (App Gateway)** with Round Robin
-- ✅ Use **Azure Traffic Manager** to redirect traffic based on user proximity
-- ✅ Deploy a **remote client in South Africa** to test geo-routing
-- ✅ Document and demonstrate the architecture with screenshots and CLI output
+-  Deploy a globally available and redundant company website
+-  Host two IIS-based VMs in each region (Canada Central & North Europe)
+-  Implement regional **load balancing (App Gateway)** with Round Robin
+-  Use **Azure Traffic Manager** to redirect traffic based on user proximity
+-  Deploy a **remote client in South Africa** to test geo-routing
+-  Document and demonstrate the architecture with screenshots and CLI output
 
 ---
 
