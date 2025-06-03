@@ -27,3 +27,4 @@ As a **Cloud Administrator**, my responsibility was to:
 - Configure **load balancing in each region** using Azure **Application Gateway**
 - Deploy a **South Africa client VM** to test proximity-based routing behavior
 
+Video Demonstration : https://youtu.be/8gCi2x-bf4U?si=At9e5X_87tFrgE07
