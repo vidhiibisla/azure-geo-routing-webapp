@@ -1,10 +1,10 @@
-# 🌍 Load Balancing and Geo-Redundant Website Hosting on Microsoft Azure
+#  Load Balancing and Geo-Redundant Website Hosting on Microsoft Azure
 
 This project simulates a real-world cloud infrastructure deployment for a global company website using Microsoft Azure. The architecture ensures **high availability**, **regional failover**, and **efficient global traffic redirection** across multiple regions.
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 -  Deploy a globally available and redundant company website
 -  Host two IIS-based VMs in each region (Canada Central & North Europe)
@@ -15,7 +15,7 @@ This project simulates a real-world cloud infrastructure deployment for a global
 
 ---
 
-## 🌐 Scenario
+##  Scenario
 
 As a **Cloud Administrator**, my responsibility was to:
 
